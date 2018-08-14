@@ -8,8 +8,8 @@
 
 import Foundation
 struct Category {
-    private(set) public var Title:String
-    private(set) public var ImageName:String
+    private(set) public var Title : String
+    private(set) public var ImageName : String
     
     init (Title:String,ImageName:String){
         self.Title=Title
