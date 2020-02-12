@@ -1,0 +1,46 @@
+/*#rootPane{
+    -fx-background-color: white;
+}*/
+
+#containerPane{
+    -fx-background-image : url("../img/bg_6.png");
+
+}
+#contentPane{
+    -fx-background-color: black;
+}
+
+#scorePane{
+    -fx-background-color: black; 
+}
+
+/*#gridPane{
+    -fx-background-color: black;
+}*/
+
+.btn{
+    -fx-background-color:black;
+
+}
+
+.action{
+    -fx-background-color:black;  
+}
+
+.options{
+    -fx-background-color: #8bc0ec;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+}
+
+.scores{}
+
+#icon{
+    -fx-background-image : url("../img/icon_2.png");
+
+}
+
+#scoreImage{
+    -fx-background-image : url("../img/bg_6.png");
+
+}
